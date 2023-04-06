@@ -1,4 +1,4 @@
-import db.DBConnectionProvider;
+import dbconnection.DBConnectionProvider;
 
 import java.sql.Connection;
 import java.util.Scanner;
